@@ -1,6 +1,6 @@
 # WriterTool
 
-WRITER TOOL is awesome cross platform software build using Electron.js 
+WRITER TOOL is awesome cross platform editor software build using Electron.js 
 
 INSTALLATION :
 
